@@ -1,0 +1,23 @@
+{
+  "name": "lime-bdd",
+  "version": "1.0.0",
+  "description": "Yet another BDD tool",
+  "main": "lib/lime.js",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  },
+  "devDependencies": {
+    "enzyme": "^2.9.1",
+    "jest": "^20.0.4",
+    "lodash.mapvalues": "^4.6.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-hyperscript": "^3.0.0",
+    "react-test-renderer": "^15.6.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tenor Biel<tenorbiel@gmail.com>",
+  "license": "MIT"
+}

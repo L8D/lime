@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`example suite results should fire all the events 1`] = `
+Array [
+  Array [
+    5,
+  ],
+]
+`;
